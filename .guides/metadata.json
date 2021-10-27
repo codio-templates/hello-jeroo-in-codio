@@ -2,27 +2,22 @@
  "sections": [
   {
    "id": "f6fe7d52-51ea-83cf-1934-810fd4f94a91",
-   "title": "Turtle Syntax and Commands",
+   "title": "Jeroo Syntax and Commands",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
     },
     {
-     "path": "TurtleGraphics.java",
+     "path": "island.jev",
      "panel": 0,
-     "action": "open"
-    },
-    {
-     "path": "#preview: https://{{domain3000}}/",
-     "panel": 1,
      "action": "open"
     }
    ],
-   "layout": "3-cell",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Turtle-Syntax-and-Commands-f6fe.md",
+   "content-file": ".guides/content/Jeroo-Syntax-and-Commands-f6fe.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
