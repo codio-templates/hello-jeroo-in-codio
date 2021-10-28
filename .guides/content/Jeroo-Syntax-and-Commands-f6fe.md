@@ -1,11 +1,27 @@
 ---
-Jeroo is a text-based coding environment designed to help novices master the basic mechanics of object oriented programming. Solving problems in Jeroo helps one or more kangaroo-like objects (ie, Jeroos) hop around an island. Jeroos can pick flowers, avoid and disarm nets, and stay on dry land (Jeroos cannot swim!) 
+Jeroo is a text-based coding environment designed to help novices master the basic mechanics of object-oriented programming. Solving problems in Jeroo helps one or more kangaroo-like objects (ie, Jeroos) hop around an island. Jeroos can pick flowers, avoid and disarm nets, and stay on dry land (Jeroos cannot swim!) 
 
 ![Jeroo Logo](.guides/img/logo.png)
 
 * Limits syntax to emphasize basic computational thinking skills.
 * Emphasizes the semantics of control structures like `loops` and `ifs`.
 * Allows learners to program using a variety of syntax styles including Java/C#, Python, or Visual Basic style.
+
+||| important
+**Important Note**:
+
+By default, the two panels (the Jeroo environment and the guide editor) split the page evenly. In order to view the Jeroo environment as intended, drag the panel to increase the size of the Jeroo environment and decrease the size of the guide. 
+
+<table><tbody ><tr><td><details><summary>
+<b> Drop down to view a video for clarification. </summary><hr>
+
+![jeroo](jeroo.gif)
+
+</details></td></tr></tbody>
+</table>
+
+
+|||
 
 ### Jeroo Syntax
 ---

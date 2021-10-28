@@ -1,6 +1,6 @@
 ---
 
-Instruction through Codio is built around the guides feature. This is a brief description on how the demo on the previous page was built. Please see the [**documentation**](https://docs.codio.com/authoring.html) for more information about content authoring with guides.
+Instruction through Codio is built around the guide feature. This is a brief description of how the demo on the previous page was built. Please see the [**documentation**](https://docs.codio.com/authoring.html) for more information about content authoring with guides.
 
 ### Build on this Starter Pack
 ---
